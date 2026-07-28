@@ -13,7 +13,7 @@ import folium
 # 1. CONFIG HALAMAN
 # ====================================================
 st.set_page_config(
-    page_title="UMUL AIMAN 23146039 - Enterprise Mining Engine", 
+    page_title="SYAH ARIFKA FIZIRQI - Enterprise Mining Engine", 
     page_icon="✨", 
     layout="wide",
     initial_sidebar_state="expanded"
@@ -148,8 +148,8 @@ with st.sidebar:
         <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
             <span style="font-size: 1.8rem;">✨</span>
             <div>
-                <div style="font-weight: 800; font-size: 1.1rem; color: #ffffff;">UMUL AIMAN</div>
-                <div style="font-size: 0.75rem; color: #a8c7fa; font-weight: 600;">NIM: 23146039</div>
+                <div style="font-weight: 800; font-size: 1.1rem; color: #ffffff;">SYAH ARIFKA FIZIRQI</div>
+                <div style="font-size: 0.75rem; color: #a8c7fa; font-weight: 600;">NIM: 23146077</div>
             </div>
         </div>
     """, unsafe_allow_html=True)
